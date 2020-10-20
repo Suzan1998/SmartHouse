@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1096024222021-stmip8papt7s8rbdhslk268mc2502vo5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1096024222021-stmip8papt7s8rbdhslk268mc2502vo5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA96z-ZYQ0e1J1nziqhenR8bSK42fcFZwc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1096024222021</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.suzan.smarthome</string>
+	<key>PROJECT_ID</key>
+	<string>ardu-a361a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ardu-a361a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1096024222021:ios:68c2e71b8eb4dc5bbc762c</string>
+	<key>DATABASE_URL</key>
+	<string>https://ardu-a361a.firebaseio.com</string>
+</dict>
+</plist>

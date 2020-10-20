@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "platforms": [
+      "ios",
+      "android",
+      "web"],
+      "ios": {
+        "bundleIdentifier": "com.suzan.SmartHome",
+        "buildNumber": "1.1.0",
+        "supportsTablet": true
+      },
+      "android": {
+        "package": "com.suzan.SmartHome",
+        "versionCode": 1,
+        "useNextNotificationsApi": true
+      },
+    
+    "name": "home",
+    "slug": "home",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/splash1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

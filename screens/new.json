@@ -1,0 +1,44 @@
+{
+    "expo": {
+      "name": "Colab.notes",
+      "slug": "Colabnotes",
+      "platforms": [
+        "ios",
+        "android",
+        "web"
+      ],
+      "version": "1.0.0",
+      "orientation": "portrait",
+      "icon": "./assets/Cloud.png",
+      "splash": {
+        "image": "./assets/Colabnotes.png",
+        "resizeMode": "cover",
+        "backgroundColor": "#ffffff"
+      },
+      "updates": {
+        "fallbackToCacheTimeout": 0
+      },
+      "assetBundlePatterns": [
+        "**/*"
+      ],
+      "ios": {
+        "supportsTablet": true
+      },
+      "android": {
+        "package": "com.cb.notes",
+        "versionCode": 1,
+        "config":{
+          "googleMobileAdsAppId":"ca-app-pub-xxxxxxx-xxxxxxxxx"
+        },
+        "googleServicesFile":"./google-services.json"
+      },
+      "notification": {
+        "icon": "./assets/cloudnotes_notification.png",
+        "color": "#311b92",
+        "iosDisplayInForeground": true,
+        "androidMode": "default",
+        "androidCollapsedTitle": "Updates from Colab.notes"
+      }
+    }
+  }
+  
